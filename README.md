@@ -23,12 +23,18 @@ Inputs and outputs
 * Output- VGA screen:
   * VGA display of the level
   * Example:
-![Screenshot 2024-09-11 140246](https://github.com/user-attachments/assets/9c1fa36c-2f11-45ff-8bb0-21e2d94b4f27)
-![Screenshot 2024-09-11 140224](https://github.com/user-attachments/assets/5939c145-4f5f-455d-9315-5f50e056a3a9)
+ 
+![Screenshot 2024-09-11 140135](https://github.com/user-attachments/assets/518f0f9f-3630-4c70-8993-7cc777d13785)
+![Screenshot 2024-09-11 140143](https://github.com/user-attachments/assets/2074cbc5-0035-4a94-babb-b836707ad561)
 
-Appendix A: Primary features
+### Appendix A: Primary features
 ![Screenshot 2024-09-11 140205](https://github.com/user-attachments/assets/f5518608-c736-4a30-8cfd-67d656079a1a)
 
-Appendix B: Level design
-![Screenshot 2024-09-11 140143](https://github.com/user-attachments/assets/2074cbc5-0035-4a94-babb-b836707ad561)
-![Screenshot 2024-09-11 140135](https://github.com/user-attachments/assets/518f0f9f-3630-4c70-8993-7cc777d13785)
+
+### Appendix B: Level design
+![Screenshot 2024-09-11 140224](https://github.com/user-attachments/assets/5939c145-4f5f-455d-9315-5f50e056a3a9)
+![Screenshot 2024-09-11 140246](https://github.com/user-attachments/assets/9c1fa36c-2f11-45ff-8bb0-21e2d94b4f27)
+
+
+
+
